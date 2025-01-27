@@ -43,6 +43,9 @@ Brewfile.lock.json
 # SCons
 .sconsign.dblite
 
+# Nix
+result
+result-*
 
 # bundle output
 /dist
